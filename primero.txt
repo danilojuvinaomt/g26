@@ -1,9 +1,10 @@
 Hola.
 
-Soy Danilo Juvinao.
+Soy el Ingeniero Juvinao.
 
 Estamos probando git + github.com
 
-Bye!
+Adios!
 
-Un mensaje faltante
+Ya el mensaje no falta.
+
